@@ -1,0 +1,22 @@
+Employee_ID,Name,Age,Gender,Department,Salary,Experience,City,Joining_Date,Performance_Score
+101,Rahul Sharma,28,Male,IT,55000,3,Pune,2022-01-15,8
+102,Priya Patil,30,Female,HR,48000,5,Mumbai,2021-06-20,9
+103,Amit Kumar,35,Male,Finance,65000,10,Delhi,2018-03-10,7
+104,Neha Singh,27,Female,Marketing,52000,2,Bangalore,2023-04-18,8
+105,Rohan Mehta,40,Male,IT,75000,15,Pune,2015-09-12,10
+106,Sneha Joshi,29,Female,Sales,47000,4,Nashik,2022-08-25,7
+107,Vikas Patil,32,Male,HR,51000,7,Mumbai,2019-11-11,8
+108,Pooja Desai,26,Female,Finance,58000,3,Ahmedabad,2023-01-05,9
+109,Karan Shah,38,Male,IT,80000,12,Pune,2016-07-30,10
+110,Anjali Verma,31,Female,Marketing,54000,6,Delhi,2020-10-22,8
+111,Raj Patel,29,Male,Sales,46000,4,Surat,2021-02-17,7
+112,Meera Kulkarni,34,Female,IT,69000,9,Pune,2018-12-01,9
+113,Arjun Nair,36,Male,Finance,,11,Kochi,2017-06-14,8
+114,Kavita Rao,,Female,HR,50000,5,Bangalore,2020-08-08,7
+115,Sameer Khan,33,Male,Marketing,56000,,Mumbai,2019-09-19,8
+116,Divya Gupta,27,Female,Sales,45000,2,,2023-02-11,6
+117,Nikhil Jain,39,Male,IT,82000,14,Pune,2014-05-28,10
+118,Ritu Sharma,30,Female,Finance,61000,6,Delhi,,9
+119,Akash Yadav,28,Male,HR,49000,3,Lucknow,2022-07-07,
+120,Sonal Patil,35,Female,IT,73000,10,Pune,2017-03-15,9
+120,Sonal Patil,35,Female,IT,73000,10,Pune,2017-03-15,9
